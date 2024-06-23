@@ -37,8 +37,6 @@ import { TableHandle } from "./tableHandle/TableHandle";
 import { TextInput } from "./form/TextInput";
 import { Toolbar, ToolbarButton, ToolbarSelect } from "./toolbar/Toolbar";
 
-import "./style.css";
-
 export const components: Components = {
   FormattingToolbar: {
     Root: Toolbar,
